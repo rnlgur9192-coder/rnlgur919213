@@ -1,0 +1,39 @@
+(.venv) PS C:\Users\user\OneDrive\Desktop\W13-starter> python scripts/project.py --input data/examples/project_support_input.json
+이번 실행 상태: lookup_ready 
+검색 경로: live_web
+이번 결과 폴더: C:\Users\user\OneDrive\Desktop\W13-starter\outputs\20261031T120748-6f79492f
+읽을 보고서: C:\Users\user\OneDrive\Desktop\W13-starter\outputs\20261031T120748-6f79492f\lesson.md
+agent 응답 턴: 3
+검색 도구 실행 수: 1
+전체 도구 실행 수: 2
+lesson.md 상단의 근거와 요청 순서, 결과 해설을 읽습니다.
+저장 전 중단: True
+검토할 초안: # 내부 검토 초안
+
+## 공개 웹 안내
+검색 방식: live_web
+- Our Documentation | Python.org
+  URL: https://www.python.org/doc/
+  요약: The official home of the Python Programming Language
+- Python Setup and Usage — Python 3.15.2 documentation
+  URL: https://docs.python.org/3/using/index.html
+  요약: Python Setup and Usage ¶ This part of the documentation is devoted to general information on the setup of the Python environment on different platforms, the invocation of the interpreter and things that make working with Python easier.
+- venv — Creation of virtual environments — Python 3.15.2 documentation
+  URL: https://docs.python.org/3/library/venv.html
+  요약: The venv module supports creating lightweight "virtual environments", each with their own independent set of Python packages installed in their site directories. A virtual environment is created on top of an existing Python installation, known as the virtual environment's "base" Python, and by default is isolated from the packages in the base environment, so that only those ...
+
+## 내부 업무 기준
+파일: data/examples/project_support_policy.txt
+- 행 1: 환경: 더미 운영팀은 공식 안내를 참고하되, 교육용 가상환경만 지원합니다. 전역 패키지 변경, 직원 기기 원격 설치, 외부 발송은 하지 않습니다.
+
+## 사람 확인
+공개 안내는 팀의 지원·승인 권한과 다릅니다.
+공개 URL과 내부 원문을 대조한 뒤 내부 보관 여부를 직접 선택하세요.
+외부 발송·설치·권한 변경은 수행하지 않습니다.
+approve(승인) / reject(거절) / cancel(취소): approve
+이번 실행 상태: 저장 완료 
+이번 결과 폴더: C:\Users\user\OneDrive\Desktop\W13-starter\outputs\20261031T120824-8f1bfce6
+읽을 보고서: C:\Users\user\OneDrive\Desktop\W13-starter\outputs\20261031T120824-8f1bfce6\lesson.md
+lesson.md 상단의 근거와 요청 순서, 결과 해설을 읽습니다.
+실제 저장 상태: 저장 완료 / 경로: C:\Users\user\OneDrive\Desktop\W13-starter\outputs\saved-drafts\5091b9a6621e10775608.txt
+(.venv) PS C:\Users\user\OneDrive\Desktop\W13-starter> 
